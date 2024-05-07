@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Spain's PM Pedro Sánchez halts public duties as wife faces inquiry",
+    "description": "Pedro Sánchez says he will \"stop and reflect\" on whether to remain in the job.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68887669",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AF84/production/_133223944_cd341be79404aa8f877823eb691b939a19d697c00_75_5244_29481000x563.jpg",
+    "publishedAt": "2024-04-24T18:37:22.3248836Z",
+    "content": "Spanish Prime Minister Pedro Sánchez has suspended public duties to \"stop and reflect\" on whether to remain in the job, after a court opened a preliminary inquiry into his wife.\r\nIn a statement, the … [+726 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Iranian rapper Toomaj Salehi sentenced to death, says lawyer",
+    "description": "Musician Toomaj Salehi  had backed anti-government nationwide protests in 2022.",
+    "url": "https://www.bbc.co.uk/news/articles/crgyelwlyzpo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d08e/live/c7b784e0-025a-11ef-b32f-3756c90ed1dc.jpg",
+    "publishedAt": "2024-04-24T18:07:20.2160508Z",
+    "content": "Speaking to newspaper Sharq on Wednesday, Mr Raesian said the revolutionary court ignored Supreme Court's ruling for clemency and instead issued new charges before handing down \"the harshest punishme… [+1165 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Nicole Mitchell: Minnesota state senator denies theft after burglary arrest",
+    "description": "Nicole Mitchell, 49, was allegedly wearing black clothing and a black hat when officers detained her.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68891731",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B4FC/production/_133223364_nicole-mitchell-cbsfb.jpg",
+    "publishedAt": "2024-04-24T17:07:17.2932348Z",
+    "content": "A Minnesota state senator has denied stealing after she was charged with first-degree burglary of her stepmother's home. \r\nNicole Mitchell was arrested in the early hours of Monday at a property in t… [+2118 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Greece: Orange Sahara dust haze descends over Athens",
+    "description": "The Greek capital was covered in a haze of dust which has blown from the Sahara desert.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68887377",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17EC7/production/_133219979_mediaitem133219978.jpg",
+    "publishedAt": "2024-04-24T16:22:13.5121743Z",
+    "content": "A dramatic orange haze has descended over Athens as clouds of dust have blown in from the Sahara desert.\r\nIt is one of the worst such episodes to hit Greece since 2018, according to officials.\r\nGreec… [+2332 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Four injured as runaway military horses bolt through central London",
+    "description": "The horses, one of which was bleeding heavily, caused chaos in central London as they collided with traffic.",
+    "url": "https://www.bbc.co.uk/news/uk-england-london-68887800",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1801C/production/_133223389_34b56c59d4021e582dcfd8187436834126a00bb0.jpg",
+    "publishedAt": "2024-04-24T15:52:20.778008Z",
+    "content": "Media caption, Watch: Cavalry horses cause chaos in London\r\nFour people have been taken to hospital after five runaway horses of the Household Cavalry threw off their riders and raced through London.… [+5248 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "TikTok: US Congress passes bill that could see app banned",
+    "description": "The app's owner, ByteDance, has nine months to sell its stake or face being blocked in the US.",
+    "url": "https://www.bbc.co.uk/news/articles/c87zp82247yo",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3f41/live/c0866860-01e4-11ef-bd81-43fafa203efd.jpg",
+    "publishedAt": "2024-04-24T12:07:21.2782877Z",
+    "content": "The measure was passed as part of a package of four bills which also included military aid for Ukraine, Israel, Taiwan and other US partners in the Indo-Pacific region.\r\nIt had widespread support fro… [+1703 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'We will keep going': Columbia Gaza protesters dig in",
+    "description": "Activists at the New York university want amnesty for disciplined students before ending their Gaza protest.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68886727",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/645B/production/_133219652_gettyimages-2149348532.jpg",
+    "publishedAt": "2024-04-24T11:22:18.1540717Z",
+    "content": "Media caption, Watch: Inside Columbia's campus as protesters camp on the university lawn\r\nGaza war protesters have vowed to remain at Columbia University until their demands are met, despite mass arr… [+7830 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'Lost' Gustav Klimt painting to be auctioned",
+    "description": "Mystery surrounds the unfinished Portrait of Fraulein Lieser, which could fetch more than €50m.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68886196",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BC3F/production/_133219184_klimtafp.jpg",
+    "publishedAt": "2024-04-24T07:07:19.4662383Z",
+    "content": "A painting by the Austrian artist Gustav Klimt that was believed lost for the past 100 years, is to be auctioned in Vienna. \r\nThere are many unanswered questions about the unfinished painting, Portra… [+2513 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Congress clears $95bn aid package for Ukraine and Israel",
+    "description": "President Biden is expected to sign the package, which includes a potential TikTok ban, into law.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68885868",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/118B/production/_133219440_3007d2ca3f7897166f0d9ac458ca1e94937472b40_683_6555_36891000x563.jpg",
+    "publishedAt": "2024-04-24T02:37:15.2626655Z",
+    "content": "The US Senate has approved a $95bn (£76bn) foreign aid package that includes military support for Ukraine, Israel and Taiwan. \r\nPresident Joe Biden is expected to sign the legislation into law on Wed… [+3087 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The fate of Korea's 'first and biggest' sex festival",
+    "description": "It was to feature events like a bondage fashion show. But then the authorities cracked down.",
+    "url": "https://www.bbc.co.uk/news/world-asia-68879492",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DDA5/production/_133214765_playjoker_actressesposing2023kxf1.jpg",
+    "publishedAt": "2024-04-24T00:22:19.4029033Z",
+    "content": "Lee Hee Tae had high hopes for his sex festival, which he proudly billed as South Korea's \"first and largest\". \r\nHe envisaged 5,000 fans flocking to see their favourite Japanese porn actors and actre… [+7125 chars]"
+    }
+    ]
+    }
