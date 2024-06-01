@@ -29,9 +29,11 @@ export default class news extends Component {
 
     }
 
+
+
     async componentDidMount() {
 
-        let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=79660240daf740c8a8c194d9875c31eb&page=1&pageSize=${this.props.pageSize}`;
+        let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=${this.props.apikey}&page=1&pageSize=${this.props.pageSize}`;
         //fetching data from API
         this.setState({loading:true})
         let data = await fetch(url);
@@ -53,7 +55,7 @@ export default class news extends Component {
     handlePrevise = async () => {
         //fetching data from API
         this.setState({loading:true})
-        let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=79660240daf740c8a8c194d9875c31eb&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;
+        let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=${this.props.apikey}&page=${this.state.page - 1}&pageSize=${this.props.pageSize}`;
         let data = await fetch(url);
         let parseData = await data.json();
         console.log(parseData);
@@ -69,7 +71,7 @@ export default class news extends Component {
 
         if (!(this.state.page + 1 > Math.ceil(this.state.totalResults /10))) {
             this.setState({loading:true});
-            let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=79660240daf740c8a8c194d9875c31eb&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
+            let url = `https://newsapi.org/v2/top-headlines?country=in&category=${this.props.category}&apiKey=${this.props.apikey}&page=${this.state.page + 1}&pageSize=${this.props.pageSize}`;
             let data = await fetch(url);
             let parseData = await data.json();
             console.log(parseData);
